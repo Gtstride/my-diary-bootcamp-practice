@@ -7345,10 +7345,10 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  line-height: 1.5;
+  /* line-height: 1.5; */
   color: #fff;
-  font-size: 3em;
-  font-weight: 400; 
+  /* font-size: 3em;
+  font-weight: 400;  */
   text-align: center; }
 
 .text-primary {
